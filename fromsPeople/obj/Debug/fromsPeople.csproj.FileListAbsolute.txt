@@ -1,0 +1,16 @@
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\bin\Debug\fromsPeople.exe.config
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\bin\Debug\fromsPeople.exe
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\bin\Debug\fromsPeople.pdb
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.csprojAssemblyReference.cache
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\MainWindow.g.cs
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\App.g.cs
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople_MarkupCompile.cache
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople_MarkupCompile.lref
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\MainWindow.baml
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.g.resources
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.Properties.Resources.resources
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.csproj.GenerateResource.cache
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.csproj.CoreCompileInputs.cache
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.exe
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\fromsPeople.pdb
+C:\Users\szulc\Desktop\cSharp\programowanie\5\fromsPeople\fromsPeople\obj\Debug\GeneratedInternalTypeHelper.g.cs
